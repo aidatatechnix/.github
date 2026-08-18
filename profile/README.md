@@ -180,7 +180,7 @@ Ready to build something intelligent.
 </p>
 
 <p align="center"><b>Founder & CEO — Aman Modanwal</b></p>
-<!-- Parrots -->
+<!-- Parrots 
   <div align="center">
   <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
   <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="25" height="25"/>
@@ -193,6 +193,7 @@ Ready to build something intelligent.
   <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="25" height="25"/>
   <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
   </div>
+  -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" width="100%"/>
 </p>
