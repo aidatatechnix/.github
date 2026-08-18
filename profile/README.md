@@ -1,18 +1,20 @@
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=230&section=header&text=AI%20DATA%20TECHNIX&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Intelligence%20Driven%20Solutions%20%7C%20AI%20%2B%20Software%20%2B%20Automation&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
+</p>
 
-<img src="assets/banner.png" alt="AI Data Technix" width="100%">
+<p align="center">
+  <img src="assets/BackgroudIMG.png" alt="AI Data Technix" width="100%">
+</p>
 
-# 🧠 AI DATA TECHNIX
+<p align="center">
+  <a href="mailto:aidatatechnix@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="tel:+918574783464"><img src="https://img.shields.io/badge/Phone-%2B91%2085747%2083464-2ea44f?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
-### Building Intelligent Software. Powering Digital Innovation.
-
-**AI • Software Development • Automation • Data Solutions**
-
-[![Email](https://img.shields.io/badge/Email-aidatatechnix%40gmail.com-2ea44f?style=flat-square&logo=gmail&logoColor=white)](mailto:aidatatechnix@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-%2B91%2085747%2083464-2ea44f?style=flat-square&logo=whatsapp&logoColor=white)](tel:+918574783464)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](#)
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+Intelligent+Software.;Powering+Digital+Innovation.;AI+%2B+Automation+%2B+Data+Solutions;Turning+Data+Into+Actionable+Insights.&font=Fira+Code&center=true&width=650&height=45&color=2E9EF7&vCenter=true&size=20" />
+</p>
 
 ---
 
@@ -20,9 +22,9 @@
 
 **AI Data Technix** is a technology-focused software company dedicated to building intelligent digital solutions for modern businesses.
 
-We combine **software engineering**, **artificial intelligence**, **automation**, and **data technologies** to help businesses simplify complex processes, improve efficiency, and embrace digital transformation.
+We combine software engineering, artificial intelligence, automation and data technologies to help businesses simplify complex processes, improve efficiency and embrace digital transformation.
 
-> *Our mission is to empower businesses through intelligent, practical and scalable technology.*
+> Our mission is to empower businesses through **intelligent, practical and scalable technology.**
 
 | 🎯 Intelligent | 📈 Scalable | ✅ Practical |
 |---|---|---|
@@ -52,56 +54,62 @@ We combine **software engineering**, **artificial intelligence**, **automation**
 
 ---
 
-## ⚙️ Our Process
+## 🧑‍💻 Technology We Work With
 
-```
-Idea  →  Architecture  →  Development  →  Testing  →  Deployment  →  Improvement
-```
+**☕ Backend & Programming**
+<p align="left"><img src="https://skillicons.dev/icons?i=java,spring,python,django,flask,js" /></p>
+Java • Spring Boot • Python • Django • Flask • JavaScript • SQL • REST APIs
 
-**01 Discover** → Understand the problem, users & requirements
-**02 Design** → Define architecture, workflows & UX
-**03 Develop** → Build reliable software using modern practices
-**04 Deploy & Improve** → Deploy, maintain & continuously improve
+**🌐 Frontend**
+<p align="left"><img src="https://skillicons.dev/icons?i=html,css,react,bootstrap" /></p>
+HTML5 • CSS3 • React.js • Bootstrap
+
+**🤖 AI / ML / Computer Vision**
+<p align="left"><img src="https://skillicons.dev/icons?i=opencv,tensorflow,pytorch" /></p>
+OpenCV • YOLO • OCR • TensorFlow • Computer Vision • Document Intelligence
+
+**🗄️ Database**
+<p align="left"><img src="https://skillicons.dev/icons?i=mysql" /></p>
+MySQL • Data Modeling • Structured Storage
+
+**🔧 Tools & Platforms**
+<p align="left"><img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,postman,maven" /></p>
+Git • GitHub • VS Code • Eclipse • Postman • Maven
 
 ---
 
-## 🧑‍💻 Technology We Work With
+## ⚙️ Our Process
 
-<div align="center">
+`Idea` → `Architecture` → `Development` → `Testing` → `Deployment` → `Improvement`
 
-**Programming**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<table align="center">
+<tr><th>01 — Discover</th><th>02 — Design</th><th>03 — Develop</th><th>04 — Deploy & Improve</th></tr>
+<tr>
+<td>Understand the business problem, users and requirements</td>
+<td>Define architecture, workflows and user experience</td>
+<td>Build reliable software using modern development practices</td>
+<td>Deploy, maintain and continuously improve the solution</td>
+</tr>
+</table>
 
-**Backend**
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+---
 
-**Frontend**
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+## 🔌 System Overview
 
-**Database**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+```json
+{
+  "organization": "AI Data Technix",
+  "type": "AI-driven software solutions",
+  "status": "actively building",
+  "core_stack": ["AI/ML", "Computer Vision", "Automation", "Full-Stack", "Data Engineering"],
+  "mission": "Turning data into intelligent action",
+  "collaboration": "open"
+}
+```
 
-**AI / ML / Computer Vision**
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![OCR](https://img.shields.io/badge/OCR-Tesseract-4B8BBE?style=flat-square)
-![YOLO](https://img.shields.io/badge/YOLO-Object%20Detection-00FFFF?style=flat-square)
-
-**Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white)
-
-</div>
+![Status](https://img.shields.io/badge/Status-Actively%20Building-2ea44f?style=flat-square)
+![AI Powered](https://img.shields.io/badge/AI--Powered-True-2E9EF7?style=flat-square&logo=openai&logoColor=white)
+![Open Source](https://img.shields.io/badge/Collaboration-Open-blue?style=flat-square)
 
 ---
 
@@ -120,22 +128,26 @@ Idea  →  Architecture  →  Development  →  Testing  →  Deployment  →  I
 
 ## 📌 Featured Projects
 
-<!-- Pin your best repos below, or let GitHub's pinned repos widget show automatically under this README -->
+<!-- Pin your best repos in org settings — they'll display automatically below this README -->
 
 ---
 
-<div align="center">
+<p align="center">
+  <img src="assets/logo.png" alt="AI Data Technix Logo" width="90">
+</p>
 
-<img src="assets/logo.png" alt="AI Data Technix Logo" width="90">
+<h3 align="center">💬 Let's Build Something Intelligent</h3>
 
-### 💬 Let's Build Something Intelligent
+<p align="center">Have a business problem, idea or manual process you want to transform? Let's explore how AI, software and automation can create a smarter solution for your business.</p>
 
-Have a business problem, idea or manual process you want to transform?
+<p align="center">
+  📧 <b>aidatatechnix@gmail.com</b> &nbsp;|&nbsp; 📞 <b>+91 85747 83464</b> &nbsp;|&nbsp; 🔗 <b>LinkedIn</b>
+</p>
 
-📧 **aidatatechnix@gmail.com** &nbsp;|&nbsp; 📞 **+91 85747 83464** &nbsp;|&nbsp; 🔗 **LinkedIn**
+<p align="center"><b>Founder & CEO — Aman Modanwal</b></p>
 
-**Founder & CEO — Aman Modanwal**
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" width="100%"/>
+</p>
 
-*Building Intelligent Software. Powering Digital Innovation.*
-
-</div>
+<h4 align="center">Building Intelligent Software. Powering Digital Innovation. 🚀</h4>
