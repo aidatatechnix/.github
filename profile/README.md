@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=230&section=header&text=AI%20DATA%20TECHNIX&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Intelligence%20Driven%20Solutions%20%7C%20AI%20%2B%20Software%20%2B%20Automation&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
-</p>
-
-<p align="center">
   <img src="assets/BackgroudIMG.png" alt="AI Data Technix" width="100%">
 </p>
 
@@ -94,6 +90,45 @@ Git • GitHub • VS Code • Eclipse • Postman • Maven
 
 ---
 
+## 💻 Quick Look
+
+```bash
+$ whoami
+AI Data Technix — AI-driven software solutions company
+
+$ cat mission.txt
+Turning data into intelligent action.
+
+$ ls capabilities/
+ai-ml/  automation/  custom-software/  data-solutions/  web-apps/  api-integration/
+
+$ ./deploy.sh --client=you
+[✓] Understanding requirements
+[✓] Designing architecture
+[✓] Building solution
+[✓] Deploying
+Ready to build something intelligent.
+```
+
+---
+
+## 🖥️ Org Info
+
+```
+┌─────────────────────────────────────────────┐
+│  AI DATA TECHNIX                             │
+├─────────────────────────────────────────────┤
+│  Founded By    : Aman Modanwal               │
+│  Focus         : AI • Automation • Software  │
+│  Core Stack    : Java, Python, Spring Boot   │
+│  AI Stack      : OpenCV, YOLO, OCR, TF        │
+│  Status        : Actively Building           │
+│  Collaboration : Open                        │
+└─────────────────────────────────────────────┘
+```
+
+---
+
 ## 🔌 System Overview
 
 ```json
@@ -145,7 +180,19 @@ Git • GitHub • VS Code • Eclipse • Postman • Maven
 </p>
 
 <p align="center"><b>Founder & CEO — Aman Modanwal</b></p>
-
+<!-- Parrots -->
+  <div align="center">
+  <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
+  <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="25" height="25"/>
+  <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="25"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="25" height="25"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="25" height="25"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="25" height="25"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="25" height="25"/>
+  <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="25"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="25" height="25"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
+  </div>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" width="100%"/>
 </p>
